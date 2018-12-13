@@ -1,0 +1,9 @@
+form a{
+    margin-left: 5px;
+}
+
+.btn-right{
+    text-align: right;
+    display: inline-block;
+    margin-left: 10px;
+}
